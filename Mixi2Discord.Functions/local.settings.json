@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "",
+    "TableName": "devMixi2Discord",
+    "DiscordWebhookId": "",
+    "DiscordWebhookToken": "",
+    "MixiEmail": "",
+    "MixiPassword": "",
+    "MixiClientProxy": ""
+  }
+}
